@@ -1,0 +1,26 @@
+{
+  "name": "live_website",
+  "version": "1.0.0",
+  "description": "live_website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viplav1996/first_live_site.git"
+  },
+  "author": "vip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viplav1996/first_live_site/issues"
+  },
+  "homepage": "https://github.com/Viplav1996/first_live_site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.11.1"
+  }
+}
